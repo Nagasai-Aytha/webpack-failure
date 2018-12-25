@@ -1,2 +1,2 @@
-import meow from '#meow';
+const mepw = require("./meow");
 console.log(meow);
